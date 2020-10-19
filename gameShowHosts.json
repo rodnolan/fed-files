@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Alex Trebek",
+    "show": "Jeopardy"
+  },
+  {
+    "id": "2",
+    "name": "Drew Carey",
+    "show": "The Price Is Right"
+  },
+  {
+    "id": "3",
+    "name": "Richard Dawson",
+    "show": "Family Feud"
+  },
+  {
+    "id": "4",
+    "name": "Pat Sajak",
+    "show": "Wheel of Fortune"
+  },
+  {
+    "id": "5",
+    "name": "Chuck Barris",
+    "show": "The Gong Show"
+  }
+]
