@@ -1,0 +1,20 @@
+[{
+  "id": 1,
+  "name": "Customer 1",
+  "region": "north"
+},
+{
+  "id": 2,
+  "name": "Customer 2",
+  "region": "south"
+},
+{
+  "id": 3,
+  "name": "Customer 3",
+  "region": "east"
+},
+{
+  "id": 4,
+  "name": "Customer 4",
+  "region": "west"
+}]
